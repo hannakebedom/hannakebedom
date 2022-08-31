@@ -1,4 +1,4 @@
-<h1>Hi! I'm Hanna 👋👩🏽‍🌾</h1>
+<h1>Hi! I'm Hanna 👋</h1>
 <p>Welcome to my GitHub page! I'm a software developer intern in the <a href="https://devdegree.ca/">Dev Degree</a> program at Shopify and a 4th year undergraduate computer science student at Carleton University.<p>
 
 <!--
