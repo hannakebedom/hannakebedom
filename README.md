@@ -1,5 +1,5 @@
 <h1>Hi! I'm Hanna 👋</h1>
-<p>Welcome to my GitHub page! I'm a software developer intern in the <a href="https://devdegree.ca/">Dev Degree</a> program at Shopify and a 4th year undergraduate computer science student at Carleton University.<p>
+<p>Welcome to my GitHub page! I'm a software developer at Shopify on Products & Pricing. I completed the <a href="https://devdegree.ca/">Dev Degree</a> internship program at Shopify and an undergraduate computer science degree at Carleton University.<p>
 
 <!--
 **hannakebedom/hannakebedom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
